@@ -21,7 +21,6 @@ function Cards(props) {
 <h5 className="card-title">{item.name}</h5>
     <p className="card-text">{item.title}</p>
 
-    <a href="#" className="btn btn-primary">Personal Link</a>
   </div>
   </div>
     ))}
